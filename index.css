@@ -1,0 +1,60 @@
+html,css{
+    height:100%;
+    width:100%
+
+}
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    background-color: aqua;
+    margin-bottom: 10px;
+    padding:6px;
+    height: 100px;
+    
+
+}
+.education-details{
+background-color: lawngreen;
+margin-bottom: 10px;
+padding:6px;
+height: 100px;
+
+
+}
+#skills{
+background-color: olive;
+margin-bottom: 10px;
+padding:6px;
+height: 100px;
+}
+#declaration{
+background-color: pink;
+padding:6px;
+margin-bottom:10px ;
+height:100px
+
+
+}
+.c{
+    background-color: orchid;
+    display:flex;
+  height:100px;
+}
+.child1{
+    background-color: brown;
+    height:100px;
+    width:20%;
+}
+.child2{
+    background-color: lightseagreen;
+    display: flex;
+    height:100px;
+    width:80%;
+    justify-content: center;
+    align-items: center;
+}
+.child2 h2{
+    margin-right:6px;
+}
